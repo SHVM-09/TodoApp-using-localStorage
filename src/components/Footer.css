@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgb(33, 30, 30);
+    padding:10px 30px;
+    font-size: 8px;
+    margin: auto;
+    margin-top: 20px;
+    color:#AAA;
+    font-weight: 400;
+    letter-spacing: 2px;
+    width: fit-content;
+    border-radius: 10px;
+    border: 1px solid red;
+    box-shadow: 0px 1px 10px red;
+}

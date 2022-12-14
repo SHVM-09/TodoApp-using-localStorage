@@ -1,0 +1,31 @@
+.accordian-01{
+    width: 85%;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    max-width: 95%;
+    overflow: scroll;
+}
+
+.acc-items{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+.btn{
+    height: fit-content;
+    margin: auto;
+    margin-left: 0px;
+    margin-right: 10px;
+    position: relative;
+    bottom: 8px;
+}
+.body-text{
+text-align: center;
+font-weight: bold;
+}
+.acc-head{
+    font-weight: 900;
+}
+

@@ -1,0 +1,39 @@
+.container-01 {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    height: 880px;
+    color: rgba(255, 1, 1, 0.845);
+    background-color: rgb(33, 30, 30);
+    overflow-y: hidden;
+    position: relative;
+    top: 30px;
+    box-shadow: 0px 2px 10px black;
+}
+
+strong {
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.cont-h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 900;
+    font-size: 20px;
+    width: fit-content;
+    margin: auto;
+    background-color: rgb(33, 30, 30);
+    position: relative;
+    top: 12px;
+
+}
+
+.content-01 {
+    overflow: scroll;
+    height: 350px;
+    padding: 10px 0px;
+    max-width: 850px;
+    margin: auto;
+}

@@ -1,0 +1,60 @@
+.form-01 {
+    width: 100%;
+    max-width: 820px;
+    margin: auto;
+    padding: 10px 20px;
+    padding-bottom: 0px;
+    border: 1px solid red;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10px;
+
+
+}
+
+.form-01 .input-01 {
+    border: 1px solid red;
+    background-color: rgb(33, 30, 30);
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.form-01 .input-01:focus {
+    background-color: rgb(33, 30, 30);
+    color: white;
+}
+
+.form-01 .title-01 {
+    position: relative;
+    top: 20px;
+    left: -78px;
+    background-color: rgb(33, 30, 30);
+    color: white;
+}
+
+.form-01 .title-02 {
+    position: relative;
+    top: 20px;
+    left: -54px;
+    background-color: rgb(33, 30, 30);
+    color: white;
+}
+
+.form-01 .btn-02 {
+    position: relative;
+    top: 17px;
+    font-size: 12px;
+    border: 1px solid red;
+    background-color: rgb(33, 30, 30);
+
+}
+
+.form-01 .btn-02:focus {
+    color: white;
+    background-color: red;
+}
